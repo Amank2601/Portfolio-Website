@@ -39,17 +39,7 @@ I specialize in responsive, clean, and performant web interfaces using:
 
 - HTML
 - CSS
-- Tailwind CSS
 - JavaScript
-
----
-
-## 📸 Preview
-
-Here’s a quick glimpse of the design:
-
-![Portfolio Screenshot](assets/screenshot.jpg)  
-(Replace this with an actual screenshot from your site)
 
 ---
 
