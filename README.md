@@ -12,7 +12,6 @@ Currently working on the **Bond Mental Wellness** project and building a mood-ba
 I specialize in responsive, clean, and performant web interfaces using:
 
 - HTML & CSS
-- Tailwind CSS
 - JavaScript
 - Git & GitHub
 
